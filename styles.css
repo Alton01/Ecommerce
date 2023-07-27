@@ -154,7 +154,7 @@ button.white{
 
 #hero {
     background-image: url("images/cars gray 2.jpg");
-    height: 90vh;
+    height: 475px;
     width: 100%;
     background-size: cover;
     background-position:  left 30%;
@@ -347,7 +347,7 @@ button.white{
     text-align: center;
     background-color: #088178;
     width: 100%;
-    height: 30vh;
+    height: 200px;
     background-position: center;
     background-size: cover;
 }
