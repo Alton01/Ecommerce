@@ -79,7 +79,7 @@ button.white{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 20px 80px;
+    padding: 20px 40px;
     background-color: #e3e6f3;
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.06);
     z-index: 999;
@@ -165,13 +165,8 @@ button.white{
     justify-content: center;
 }
 
-#hero h4{
-    padding-bottom: 15px;
-    margin-top: 20px;
-}
-
 #hero h1{
-    color: #000;
+    color: #088178;
 }
 
 #hero button{
