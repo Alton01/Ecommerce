@@ -751,7 +751,7 @@ footer .row p{
     #hero {
        
         height: 470px;
-        background-position: top 10% right 50%;
+        background-position: top 10% left 100px;
         padding: 0 30px;
         
     }
